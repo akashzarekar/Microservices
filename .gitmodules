@@ -1,0 +1,3 @@
+[submodule "common-exception"]
+	path = common-exception
+	url = https://github.com/akashzarekar/common-exception
